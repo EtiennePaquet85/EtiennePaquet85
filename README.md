@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Bonjour !
 
-<!--
-**EtiennePaquet85/EtiennePaquet85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Je suis **Étienne Paquet**, diplômé en Génie Logiciel de l’ÉTS – Montréal.  
+💻 Développeur full-stack passionné par l'architecture logicielle, les ERP modulaires et le clean code.  
+🚀 Auteur du projet [ChatERP](https://github.com/EtiennePaquet85/ChatERP), un ERP open-source structuré selon le SWEBOK v4.  
 
-Here are some ideas to get you started:
+# 👋 Hello!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 I’m **Étienne Paquet**, a Software Engineering graduate from ÉTS – Montréal.  
+💻 Full-stack developer passionate about software architecture, modular ERP systems, and clean code.  
+🚀 Creator of [ChatERP](https://github.com/EtiennePaquet85/ChatERP), an open-source ERP aligned with SWEBOK v4.
+
+---
+
+## 🧰 Tech Stack
+
+React • TypeScript • .NET 8 • C# • FastAPI • Python • SQLite • Docker
+
+---
+
+## 📂 Project
+
+[🔗 ChatERP – Minimal, modular ERP with full documentation](https://github.com/EtiennePaquet85/ChatERP)
+
+---
+
+## 📫 Contact
+
+- [LinkedIn (français/english)](https://linkedin.com/in/etiennepaquet)
+- [GitHub](https://github.com/EtiennePaquet85)
